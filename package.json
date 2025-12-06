@@ -1,0 +1,21 @@
+{
+  "name": "viper-black",
+  "displayName": "Viper Black",
+  "description": "A sleek, deep-black theme with neon green accents for a modern terminal aesthetic.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Viper Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Viper Black-color-theme.json"
+      }
+    ]
+  }
+}
