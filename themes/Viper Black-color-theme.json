@@ -18,6 +18,37 @@
 		// --- Window Border ---
         "window.activeBorder": "#00000000",
         "window.inactiveBorder": "#00000000",
+
+        // --- Action Colors ---
+        "toolbar.hoverBackground": "#00ff00bb",
+        "toolbar.activeBackground": "#00ff0052",
+
+        // --- Dropdown Control ---
+        "dropdown.background": "#1d1d1d",
+        "dropdown.border": "#00ff00",
+        "dropdown.foreground": "#ffffff",
+
+        // --- Input Control ---
+        "input.background": "#000000",
+        "input.border": "#00ff00",
+        "input.placeholderForeground": "#A0A0A0",
+        "inputOption.activeBackground": "#00ff00a1",
+        "inputOption.activeForeground": "#000000",
+        "inputOption.hoverBackground": "#00ff0075",
+
+        // --- Scrollbar Control ---
+        "scrollbarSlider.background": "#29292946",
+        "scrollbarSlider.activeBackground": "#00ff0046",
+        "scrollbarSlider.hoverBackground": "#00ff0031",
+
+        // --- Lists and Trees ---
+        "list.activeSelectionBackground":"#00ff0046",
+        "list.activeSelectionForeground":"#FFFFFF",
+        
+        // --- Side Bar ---
+        "sideBar.background": "#000000",
+        "sideBar.foreground": "#FFFFFF",
+        "sideBar.border": "#0e0e0e",
 		
 		// --- Editor Colors ---
         "editor.background": "#000000",
