@@ -49,6 +49,38 @@
         "sideBar.background": "#000000",
         "sideBar.foreground": "#FFFFFF",
         "sideBar.border": "#0e0e0e",
+        "sideBarTitle.foreground": "#ffffff",
+        "sideBarSectionHeader.background": "#1d1d1d",
+        "sideBarSectionHeader.foreground": "#ffffff",
+        "sideBarSectionHeader.border": "#0e0e0e",
+        "sideBarActivityBarTop.border": "#0e0e0e",
+        "sideBarTitle.background": "#000000",
+        "sideBarTitle.border": "#0e0e0e",
+        "sideBarStickyScroll.background": "#1d1d1d",
+        "sideBarStickyScroll.border": "#0e0e0e",
+        "sideBarStickyScroll.shadow": "#00ff00",
+
+        // --- Editor Groups & Tabs ---
+        "editorGroup.border": "#0e0e0e",
+        "editorGroup.dropBackground": "#00ff0020",
+        "editorGroupHeader.noTabsBackground": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000",
+        "editorGroupHeader.tabsBorder": "#0e0e0e",
+        "editorGroupHeader.border": "#0e0e0e",
+        "tab.activeBackground": "#202020b6",
+        "tab.activeForeground": "#ffffff",
+        "tab.border": "#0e0e0e",
+        "tab.selectedBorderTop": "#0e0e0e",
+        "tab.selectedBackground": "#000000",
+        "tab.selectedForeground": "#FFFFFF",
+        "tab.dragAndDropBorder": "#00FF00",
+        "tab.unfocusedActiveBorder": "#00000000",
+        "tab.activeBorderTop": "#00FF00",
+        "tab.inactiveBackground": "#00000067",
+        "tab.inactiveForeground": "#ffffff",
+        "editorPane.background": "#000000",
+        "sideBySideEditor.horizontalBorder": "#0e0e0e",
+        "sideBySideEditor.verticalBorder": "#0e0e0e",
 		
 		// --- Editor Colors ---
         "editor.background": "#000000",
@@ -79,8 +111,42 @@
         "editor.stackFrameHighlightBackground": "#00FFFF30",
         "editor.focusedStackFrameHighlightBackground": "#00FF0050",
         "editorBracketMatch.border": "#00FF00",
-		
-		
+
+        // --- Panel Colors ---
+        "panel.background": "#000000",
+        "panel.border": "#0e0e0e",
+        "panel.dropBorder": "#00FF00",
+        "panelTitle.activeBorder": "#00FF00",
+        "panelTitle.activeForeground": "#FFFFFF",
+        "panelTitle.border": "#0e0e0e",
+        "panelTitleBadge.background": "#00FF00",
+        "panelTitleBadge.foreground": "#000000",
+        "panelInput.border": "#0e0e0e",
+        "panelSection.border": "#0e0e0e",
+        "panelSection.dropBackground": "#00FF0020",
+        "panelSectionHeader.background": "#000000",
+        "panelSectionHeader.foreground": "#ffffff",
+        "panelStickyScroll.background": "#000000",
+        "panelStickyScroll.border": "#0e0e0e",
+        "panelStickyScroll.shadow": "#00ff00",
+
+        // --- Title Bar Colors ---
+        "titleBar.activeBackground": "#000000",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveBackground": "#000000",
+        "titleBar.inactiveForeground": "#FFFFFF",
+        "titleBar.border": "#0e0e0e",
+
+        // --- Banner Colors ---
+        "banner.background": "#1d1d1d",
+        "banner.foreground": "#ffffff",
+        "banner.iconForeground": "#ffffff",
+
+        // --- Integrated Terminal Colors ---
+        "terminal.background": "#000000",
+        "terminal.border": "#0e0e0e",
+        "terminal.foreground": "#FFFFFF",
+        
     },
     
     "tokenColors": [
