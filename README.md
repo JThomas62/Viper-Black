@@ -18,13 +18,13 @@ This theme transforms your Visual Studio Code experience with a **pure black bac
 This theme features a high-contrast black canvas with vibrant syntax highlighting across popular languages.
 
 #### 🖥️ HTML Code View
-<img src="./images/Viper_Black_HTML.jpg" width="500" alt="Viper Black theme showing HTML file syntax highlighting">
+<img src="https://github.com/JThomas62/Viper-Black/blob/dev/images/Viper_Black_HTML.jpg" width="500" alt="Viper Black theme showing HTML file syntax highlighting">
 
 #### 🎨 CSS Code View
-<img src="./images/Viper_Black_CSS.jpg" width="500" alt="Viper Black theme showing CSS file syntax and styling">
+<img src="https://github.com/JThomas62/Viper-Black/blob/dev/images/Viper_Black_CSS.jpg" width="500" alt="Viper Black theme showing CSS file syntax and styling">
 
 #### 🚀 JavaScript Code View
-<img src="./images/Viper_Black_JS.jpg" width="500" alt="Viper Black theme showing JavaScript file syntax highlighting">
+<img src="https://github.com/JThomas62/Viper-Black/blob/dev/images/Viper_Black_JS.jpg" width="500" alt="Viper Black theme showing JavaScript file syntax highlighting">
 
 ### 🚀 How to Use the Theme
 
