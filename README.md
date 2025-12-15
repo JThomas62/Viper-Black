@@ -43,11 +43,3 @@ Installing Viper Black is simple through the Visual Studio Code Marketplace.
 
 1.  Click this link: [Install Viper Black Theme](https://marketplace.visualstudio.com/items?itemName=[PLACEHOLDER.YourPublisher].Viper-Black)
 2.  Click the **Install** button.
-
-### 🛠️ Challenges Faced (Behind the Code)
-
-As a creator, sharing your challenges adds value and context!
-
-The main challenge I faced when developing this theme was the process of **color specificity** and the limited guidance from the documentation. VS Code offers hundreds of granular settings, and the **VS Code Theme Color Documentation** only describes *what* each setting controls in text, but **lacks visual examples or screenshots**.
-
-This meant that figuring out the exact identifier for every UI element (like the active tab border, the scrollbar thumb, or specific token types in languages like JavaScript and Python) required meticulous, manual testing and iteration. This deep-dive process ultimately resulted in a highly polished and consistently themed final product.
