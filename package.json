@@ -3,6 +3,22 @@
   "displayName": "Viper Black",
   "description": "A sleek, deep-black theme with neon green accents for a modern terminal aesthetic.",
   "version": "0.0.1",
+  "publisher": "MightySnake",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JThomas62/Viper-Black.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JThomas62/Viper-Black/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "mightysnake",
+    "viper"
+  ],
   "engines": {
     "vscode": "^1.106.1"
   },
