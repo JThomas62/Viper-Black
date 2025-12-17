@@ -37,5 +37,5 @@ Installing Viper Black is simple through the Visual Studio Code Marketplace.
 
 #### **Method 2: Marketplace Link**
 
-1.  Click this link: [Install Viper Black Theme](https://marketplace.visualstudio.com/items?itemName=MightySnake.Viper-Black)
+1.  Click this link: [Install Viper Black Theme](https://marketplace.visualstudio.com/items?itemName=MightySnake.viper-black)
 2.  Click the **Install** button.
