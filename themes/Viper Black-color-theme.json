@@ -16,7 +16,7 @@
         "icon.foreground": "#FFFFFF",     
         
 		// --- Window Border ---
-        "window.activeBorder": "#00000000",
+        "window.activeBorder": "#5a5a5a",
         "window.inactiveBorder": "#00000000",
 
         // --- Action Colors ---
@@ -37,7 +37,7 @@
         "inputOption.hoverBackground": "#00ff0075",
 
         // --- Scrollbar Control ---
-        "scrollbarSlider.background": "#29292946",
+        "scrollbarSlider.background": "#00ff00",
         "scrollbarSlider.activeBackground": "#00ff0046",
         "scrollbarSlider.hoverBackground": "#00ff0031",
 
@@ -48,7 +48,7 @@
         // --- Side Bar ---
         "sideBar.background": "#000000",
         "sideBar.foreground": "#FFFFFF",
-        "sideBar.border": "#0e0e0e",
+        "sideBar.border": "#ffffff",
         "sideBarTitle.foreground": "#ffffff",
         "sideBarSectionHeader.background": "#1d1d1d",
         "sideBarSectionHeader.foreground": "#ffffff",
@@ -61,7 +61,7 @@
         "sideBarStickyScroll.shadow": "#00ff00",
 
         // --- Editor Groups & Tabs ---
-        "editorGroup.border": "#0e0e0e",
+        "editorGroup.border": "#ffffff",
         "editorGroup.dropBackground": "#00ff0020",
         "editorGroupHeader.noTabsBackground": "#000000",
         "editorGroupHeader.tabsBackground": "#000000",
@@ -114,7 +114,7 @@
 
         // --- Panel Colors ---
         "panel.background": "#000000",
-        "panel.border": "#0e0e0e",
+        "panel.border": "#ffffff",
         "panel.dropBorder": "#00FF00",
         "panelTitle.activeBorder": "#00FF00",
         "panelTitle.activeForeground": "#FFFFFF",
@@ -146,6 +146,9 @@
         "terminal.background": "#000000",
         "terminal.border": "#0e0e0e",
         "terminal.foreground": "#FFFFFF",
+
+        // --- Status Bar ---
+        "statusBar.background": "#000000"
         
     },
     
