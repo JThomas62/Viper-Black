@@ -48,7 +48,7 @@
         // --- Side Bar ---
         "sideBar.background": "#000000",
         "sideBar.foreground": "#FFFFFF",
-        "sideBar.border": "#ffffff",
+        "sideBar.border": "#5a5a5a",
         "sideBarTitle.foreground": "#ffffff",
         "sideBarSectionHeader.background": "#1d1d1d",
         "sideBarSectionHeader.foreground": "#ffffff",
@@ -61,7 +61,7 @@
         "sideBarStickyScroll.shadow": "#00ff00",
 
         // --- Editor Groups & Tabs ---
-        "editorGroup.border": "#ffffff",
+        "editorGroup.border": "#5a5a5a",
         "editorGroup.dropBackground": "#00ff0020",
         "editorGroupHeader.noTabsBackground": "#000000",
         "editorGroupHeader.tabsBackground": "#000000",
@@ -144,7 +144,7 @@
 
         // --- Integrated Terminal Colors ---
         "terminal.background": "#000000",
-        "terminal.border": "#0e0e0e",
+        "terminal.border": "#5a5a5a",
         "terminal.foreground": "#FFFFFF",
 
         // --- Status Bar ---
