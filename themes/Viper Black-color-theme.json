@@ -37,11 +37,7 @@
         "inputOption.hoverBackground": "#00ff0075",
 
         // --- Scrollbar Control ---
-<<<<<<< HEAD
-        "scrollbarSlider.background": "#29292946",
-=======
         "scrollbarSlider.background": "#00ff00",
->>>>>>> dev
         "scrollbarSlider.activeBackground": "#00ff0046",
         "scrollbarSlider.hoverBackground": "#00ff0031",
 
@@ -52,11 +48,7 @@
         // --- Side Bar ---
         "sideBar.background": "#000000",
         "sideBar.foreground": "#FFFFFF",
-<<<<<<< HEAD
-        "sideBar.border": "#0e0e0e",
-=======
         "sideBar.border": "#5a5a5a",
->>>>>>> dev
         "sideBarTitle.foreground": "#ffffff",
         "sideBarSectionHeader.background": "#1d1d1d",
         "sideBarSectionHeader.foreground": "#ffffff",
@@ -69,11 +61,7 @@
         "sideBarStickyScroll.shadow": "#00ff00",
 
         // --- Editor Groups & Tabs ---
-<<<<<<< HEAD
-        "editorGroup.border": "#0e0e0e",
-=======
         "editorGroup.border": "#5a5a5a",
->>>>>>> dev
         "editorGroup.dropBackground": "#00ff0020",
         "editorGroupHeader.noTabsBackground": "#000000",
         "editorGroupHeader.tabsBackground": "#000000",
@@ -126,11 +114,7 @@
 
         // --- Panel Colors ---
         "panel.background": "#000000",
-<<<<<<< HEAD
-        "panel.border": "#0e0e0e",
-=======
         "panel.border": "#ffffff",
->>>>>>> dev
         "panel.dropBorder": "#00FF00",
         "panelTitle.activeBorder": "#00FF00",
         "panelTitle.activeForeground": "#FFFFFF",
@@ -160,16 +144,11 @@
 
         // --- Integrated Terminal Colors ---
         "terminal.background": "#000000",
-<<<<<<< HEAD
-        "terminal.border": "#0e0e0e",
-        "terminal.foreground": "#FFFFFF",
-=======
         "terminal.border": "#5a5a5a",
         "terminal.foreground": "#FFFFFF",
 
         // --- Status Bar ---
         "statusBar.background": "#000000"
->>>>>>> dev
         
     },
     
