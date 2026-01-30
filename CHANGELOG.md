@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+### Added
+
+- v0.0.2 Status Bar Background Color, Window Border Color Changed, Scrollbar Color changed, Sidebar Border Color Changed
