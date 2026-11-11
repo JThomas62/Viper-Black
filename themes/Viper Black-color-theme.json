@@ -139,7 +139,7 @@
         "meta.property-name.css",
         "entity.other.attribute-name.css"
       ],
-      "settings": { "foreground": "#818CF8" }
+      "settings": { "foreground": "#6271fd" }
     },
     {
       "name": "Keywords",
@@ -182,7 +182,7 @@
     {
       "name": "Strings",
       "scope": ["string", "constant.other.symbol"],
-      "settings": { "foreground": "#86EFAC" }
+      "settings": { "foreground": "#d6d66c" }
     },
     {
       "name": "Numbers / Constants / Units",
@@ -193,7 +193,7 @@
         "constant.character",
         "keyword.other.unit"
       ],
-      "settings": { "foreground": "#EAB308" }
+      "settings": { "foreground": "#f27b19" }
     },
     {
       "name": "Operators / Punctuation",
@@ -215,7 +215,7 @@
       "scope": ["entity.other.attribute-name"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#F59E0B"
+        "foreground": "#37d270"
       }
     },
     {
